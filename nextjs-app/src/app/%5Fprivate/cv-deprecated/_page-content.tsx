@@ -58,7 +58,7 @@ export function CvContent() {
 
 **How to reach me** (preferably in that order):  
 &nbsp;&nbsp;&nbsp;<i className="fa fa-github"></i>&nbsp;  [Github](https://github.com/remstef)  
-&nbsp;&nbsp;&nbsp;<i className="fa fa-linkedin-square"></i>&nbsp;  [LinkedIn](https://www.linkedin.com/in/steffen-remus-54a62498)  
+&nbsp;&nbsp;&nbsp;<i className="fa fa-linkedin-square"></i>&nbsp;  [LinkedIn](https://www.linkedin.com/in/steffen-remus)  
 &nbsp;&nbsp;&nbsp;<i className="fa fa-university"></i>&nbsp;  [Institutional](https://lt.informatik.uni-hamburg.de/people/steffen-remus)  
 &nbsp;&nbsp;&nbsp;<i className="ai ai-orcid"></i>&nbsp;  [OrcId](https://orcid.org/0000-0003-4303-8781)  
 &nbsp;&nbsp;&nbsp;<i className="ai ai-google-scholar-square"></i>&nbsp;  [Google Scholar](https://scholar.google.com/citations?user=nDGCpDYAAAAJ)
